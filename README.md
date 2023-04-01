@@ -19,7 +19,7 @@
 
 ## ✅ Sobre o projeto
 
-API RESTful que acessa o token do user da API do GitHub,
+API RESTful que acessa o token da API do GitHub,
 em seguida verifica se o id do user está cadastrado no banco de dados local (SQLite), 
 caso o user estejá cadastrado ele retorna as informações cadastrada do user, 
 else cria uma novo user na tabela com as informações do token do user.

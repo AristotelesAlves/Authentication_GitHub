@@ -55,7 +55,7 @@ $ git clone https://github.com/AristotelesAlves/Authentication_GitHub.git && cd 
 
 $ npm install
 
-# Altere as variaveis ambientes em .env:
+# Altere suas variáveis ambiente em .env, que são geradas em https://github.com/settings/developers:
 
 $ GITHUB_CLIENT_SECRET e GITHUB_CLIENT_ID
 
